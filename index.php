@@ -181,7 +181,7 @@
 					</div>
 					<div class="col-sm-6 col-sm-offset-1 scrollimation fade-left">
 						<h1>Hello, I am Rebekah!<h1>
-						<p>I'm a graphic designer living in <em style="color:#cecece;">Kansas City</em>. I have worked with companies like <em style="color:#cecece;">Liquid Soap Products</em> and <em style="color:#cecece;">Turn the Page</em> and currently working as a freelance designer. Creating is not just a job for me, it's a passion. </p>
+						<p>I'm a graphic designer living in <em style="color:#cecece;">Kansas City</em>. I have worked with companies like <em style="color:#cecece;">Liquid Soap Products</em> and <em style="color:#cecece;">Turn the Page</em> and I am currently working as a freelance designer. Creating is not just a job for me, it's a passion. </p>
 						<a href="#portfolio" class="btn btn-theme transparent scrollto">View my Works</a>
 					</div>
 				</div><!--End row -->
