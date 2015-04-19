@@ -212,7 +212,7 @@
 						<h2 class="text-center">Logo Branding</h2>
 					</div>
 					<div class="col-sm-6 col-md-3 text-center">
-						<span class="chart" data-percent="80"><span class="percent">80</span></span>
+						<span class="chart" data-percent="85"><span class="percent">85</span></span>
 						<h2 class="text-center">UI / UX</h2>
 					</div>
 					
